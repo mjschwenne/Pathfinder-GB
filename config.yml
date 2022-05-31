@@ -43,7 +43,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    description: "Public website for the players of the Great Basin Pathfinder 1E game."
     author: Matt Schwennesen
     # author: ["Me", "You"] # multiple authors
 
