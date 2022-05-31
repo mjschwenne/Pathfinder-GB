@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Stats on The Great Basin</title>
+    <link>https://mjschwenne.github.io/Pathfinder-GB/stats/</link>
+    <description>Recent content in Stats on The Great Basin</description>
+    <image>
+      <url>https://mjschwenne.github.io/Pathfinder-GB/papermod-cover.png</url>
+      <link>https://mjschwenne.github.io/Pathfinder-GB/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://mjschwenne.github.io/Pathfinder-GB/stats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jusa Lok</title>
+      <link>https://mjschwenne.github.io/Pathfinder-GB/stats/jusa.lok-public/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mjschwenne.github.io/Pathfinder-GB/stats/jusa.lok-public/</guid>
+      <description>CR 6 Lawful Good Medium Humanoid (Human) init +2; Senses Perception +3
+Defense AC 18, touch 12, flat-footed 16 (+6 Armor, +2 Dex, 0 Size) hp 48 (6d8 + 18) Fort +8 Ref +4 Will +10, +1 against traps Defensive Abilities
+Offense Speed ground 30 ft Space 5 ft, Reach 5 ft Melee Morningstar +5 (1d8 + 1 B &amp;amp; P) Ranged +1 Blackwood Composite Longbow +6 (110 ft, 1d8 + 2 P, x3)</description>
+    </item>
+    
+  </channel>
+</rss>
