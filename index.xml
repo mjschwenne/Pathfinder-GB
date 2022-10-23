@@ -10,6 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://mjschwenne.github.io/Pathfinder-GB/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>https://mjschwenne.github.io/Pathfinder-GB/stats/jusa.lok-stat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mjschwenne.github.io/Pathfinder-GB/stats/jusa.lok-stat/</guid>
+      <description>Jusa Lok (Stat)
+CR 6 Lawful Good Medium Humanoid (Human)
+init +2; Senses Perception +3
+Defense AC 18, touch 12, flat-footed 16 (+6 Armor, +2 Dex, 0 Size)
+hp 48 (6d8 + 18)
+Fort +8 Ref +4 Will +10, +1 against traps
+Defensive Abilities
+Offense Speed ground 30 ft
+Space 5 ft, Reach 5 ft
+Melee Morningstar +6 (1d8 + 1 B &amp;amp; P)
+Ranged +1 Blackwood Composite Longbow +7 (110 ft, 1d8 + 2 P, x3)</description>
+    </item>
+    
+    <item>
       <title>Forum Delegates of the Koncord of Kieros</title>
       <link>https://mjschwenne.github.io/Pathfinder-GB/historicaldocs/delegates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
