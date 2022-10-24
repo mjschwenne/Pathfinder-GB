@@ -4,7 +4,7 @@
 #+filetags: :stat:
 #+title: Jusa Lok (Stat)
 
-*CR* 6 Lawful Good Medium Humanoid (Human)
+*CR* 7 Lawful Good Medium Humanoid (Human)
 
 *init* +2; *Senses* Perception +3
 
@@ -12,7 +12,7 @@
 
 *AC* 18, touch 12, flat-footed 16 (+6 Armor, +2 Dex, 0 Size)
 
-*hp* 48 (6d8 + 18)
+*hp* 55 (6d8 + 21)
 
 *Fort* +8 *Ref* +4 *Will* +10, +1 against traps
 
