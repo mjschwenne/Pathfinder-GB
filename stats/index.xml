@@ -10,16 +10,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://mjschwenne.github.io/Pathfinder-GB/stats/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Jusa Lok (Stat)</title>
       <link>https://mjschwenne.github.io/Pathfinder-GB/stats/jusa.lok-stat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mjschwenne.github.io/Pathfinder-GB/stats/jusa.lok-stat/</guid>
-      <description>Jusa Lok (Stat)
-CR 7 Lawful Good Medium Humanoid (Human)
-init +2; Senses Perception +3
+      <description>Jusa Lok CR 7 Lawful Good Medium Humanoid (Human)
+Initiative +2; Senses Perception +3
 Defense AC 18, touch 12, flat-footed 16 (+6 Armor, +2 Dex, 0 Size)
-hp 55 (6d8 + 21)
+hp 56 (7d8 + 21)
 Fort +8 Ref +4 Will +10, +1 against traps
 Defensive Abilities
 Offense Speed ground 30 ft
