@@ -1,5 +1,6 @@
 ---
 title: Session Log 30 January 2022
+date: "2022-01-30"
 ---
 When we last ventured to the Great Basin, the members of the task force were trying to get their grips on the clues left at the scene of the explosion. During a trip to the library to get the materials needed for a conspiracy board, Oisin and Will encountered Julius Peperthorn, Oisin's Antiquarian. He seemed to think that Oisin was lucky for not getting expelled from the library and did drop some information about the missing Sword of Divinity, which apparently has connections to holy fire and that several people have tried to steal it in the past but where disintegrated in a burst of holy flames. 
 
@@ -19,5 +20,3 @@ The next day, 2 Fireharvest 1763, Breagan wakes early to try and find anything t
 - Correctly locating the tower of the Principality, Oisin and Breagan where then able to score a conference with both of the delegates, Bur Harcosa and Vessimur Yutros. The delegates seemed perhaps like there were in some form of disagreement and were not overly concerned with the members of the task force, but they did introduce the assigned member to the task force from the Principality, Jusa Lok.
 
 Jusa is a human woman and member of the Church of Kroina, Lady Foresight. During the meeting she seemed nervous and stressed, leading to an awkward exchange with Oisin about killing each other. Later, during the talk back she mentioned having a vision of her own death.
-
-Jusa is a human woman and member of the Church of Kroina, Lady Foresight. During the meeting she seemed nervous and stressed, leading to an awkward exchange with Oisin about killing each other. Later, during the talk back she mentioned having a vision of her own death. 

@@ -1,9 +1,10 @@
 ---
 title: Session Log 20 March 2022
+date: "2022-03-20"
 ---
 When we last ventured to the Great Basin,
 
-The illustrious members of the task force were engaged in a battle with odd creatures with hunched backs, backwards hooved feet, elongated snouts and protruding tusks in the storage room of the Temple of Kroina in Kerkrad. After a feisty battle which saw several sun beetles' glowing guts getting scattered over the room, the creatures were defeated and upon death, they transformed into the corpses of regular boars.  
+The illustrious members of the task force were engaged in a battle with odd creatures with hunched backs, backwards hooved feet, elongated snouts and protruding tusks in the storage room of the Temple of Kroina in Kerkrad. After a feisty battle which saw several sun beetles' glowing guts getting scattered over the room, the creatures were defeated and upon death, they transformed into the corpses of regular boars.
 
 Talking with Pastor Kendall of the Temple, you learned that this temple has been buying Trance Wine from Alisha for four years since she is able to get great deals for it and that occasionally she brings another to help with the work, but it's not always one person like Diana. On the way back from the temple, the party filled Jusa Lok in the details of the investigation, that the blood on the coin found at the site of the 1763-03-34 Bombing of the Forum belonged to the last king of Andorr, Ydin. 
 
@@ -14,5 +15,4 @@ Meanwhile, a different group consisting of Breagan, Redfern, Blue Eyes, Wil and 
 Later then evening, Oisin's familiar returned from scouting Alisha's shop. They reported that they did not see Alisha or Diana there, but gave a description of three others working in the shop. 
 - A human with a green pixie hair cut and lots of tattoos. She also went out back into an alley for a smoke break, and the back door seemed to be unlocked before and after she was in the ally.
 - A dwarf who must be very young, since he only has a few inches of beard. "That's really the only way I know to estimate the age of a dwarf". 
-- Another vishkayna, this one with green eyes rather they the golden ones that Alisha has. ly the only way I know to estimate the age of a dwarf". 
-- Another vishkayna, this one with green eyes rather they the golden ones that Alisha has. 
+- Another vishkayna, this one with green eyes rather they the golden ones that Alisha has.

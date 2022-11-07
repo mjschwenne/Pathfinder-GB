@@ -1,5 +1,6 @@
 ---
 title: Session Log 10 April 2022
+date: "2022-04-10"
 ---
 When we last ventured to the Great Basin, the data was 20 Fireharvest 1763.
 

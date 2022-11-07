@@ -1,5 +1,6 @@
 ---
 title: Session Log 27 March 2022
+date: "2022-03-27"
 ---
 When we last ventured to the Great Basin...
 

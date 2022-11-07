@@ -1,5 +1,6 @@
 ---
 title: Session Log 06 February 2022
+date: "2022-02-06"
 ---
 During our last foray into the Great Basin, Dr. Luna was working late in the Library with the green sample from the blast in the Forum chamber. Frustrated by her lack of progress, Dr. Luna conducted increasingly risky experiments until she passed a large amount of electricity through the material, were it promptly exploded  destroying the entire lab, blowing a hole in the exterior of the library and nearly kills her. Swiftly arriving on site is Eaton, the investigative head of the Bastion of the Sky. He is furious to find on of the task force members at the heart of the incident, but admits to not having the authority to arrest her as much as he wants to. He does inform Dr. Luna that he will be filing a report to the Forum about the incident and is somewhat happy that the blast wasn't for nothing and Dr. Luna learned how to detonate the mystery substance. 
 
@@ -13,4 +14,4 @@ Oisin goes to check up on Eaton, and tries to repair the degrading relationship 
 
 Meanwhile, Redfern and Zorro visit Silvius Albina, one of the delegates from the Empire of Xylte. They find him to be very old and senile, telling them that it was probably the Andorrans who tried to assassinate their emperor last week who were behind the attack on the Forum. Frustrated with Silvius, they enter unannounced to the office of Janus Brutus, the other delegate from the Empire. She is much more composed than Silvius, basically telling them that they are just waiting for him to die. She explains that the Empire didn't assign anybody to the task force since they don't really care and do not think that a group from as many different cultures as the task force could possibly solve the mystery anyways. 
 
-The task force realize that Jusa has not been seen all day and both the attendant in the Tower of the Principality of Vi and Vessimur suggest the church as likely places for a cleric to be. The whole task force decides to go see if Jusa is there. Jusa has not been seen all day and both the attendant in the Tower of the Principality of Vi and Vessimur suggest the church as likely places for a cleric to be. The whole task force decides to go see if Jusa is there.
+The task force realize that Jusa has not been seen all day and both the attendant in the Tower of the Principality of Vi and Vessimur suggest the church as likely places for a cleric to be. The whole task force decides to go see if Jusa is there. 

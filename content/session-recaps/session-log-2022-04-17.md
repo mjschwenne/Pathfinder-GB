@@ -1,5 +1,6 @@
 ---
 title: Session Log 17 April 2022
+date: "2022-04-17"
 ---
 When we last ventured to the Great Basin... 
 
@@ -7,4 +8,4 @@ It 20 Fireharvest 1763 and the members of the Task Force had infiltrated a hideo
 
 Vicious plans to evacuate all of the personal and equipment from the city until the investigation blows over, taking a small boat down Drainage Channel E. Talking to Nessa Preston and the rest of the Trobreryn guard, you strike a deal: for the information about the syndicate's plans and assistance in the operation to stop them, the Trobreryn guard will give the task force half of the value on the boat if it is captured. 
 
-On the night of the operation, the channel is dammed with several thick logs, and the personnel stationed 150 feet before the dam. Quitely, the keelboat rows into view, manned by eight rowers, captained by Vicious and Voracious. When the task force engages them, more members of the Keburpemi Syndicate who were travelling parallel to the boat strike from the shadows. The winner of this battle remain to be seen. o were travelling parallel to the boat strike from the shadows. The winner of this battle remain to be seen. 
+On the night of the operation, the channel is dammed with several thick logs, and the personnel stationed 150 feet before the dam. Quitely, the keelboat rows into view, manned by eight rowers, captained by Vicious and Voracious. When the task force engages them, more members of the Keburpemi Syndicate who were travelling parallel to the boat strike from the shadows. The winner of this battle remain to be seen.

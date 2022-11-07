@@ -1,5 +1,6 @@
 ---
 title: Session Log 23 Januray 2022
+date: "2022-01-23"
 ---
 The Founder's Gala of 1763 was two nights away. This prestigious event is held once a year to commemorate the establishment of Kerkrad as a city and the formal movement of the seat of power of the Koncord of Kieros to the floating island of Xylte. 
 
@@ -20,6 +21,4 @@ Instead she held you all their for an hour before giving you summons to appear b
 - Niven Imperium: Stated that they will cooperate with the investigation, would not be assigning a member and will be launching their own investigation. 
 - Commune of Atrxous: Tried to assign a member, Hynek Linhart, a shoemaker from Plumlov and was overruled following a grievance from Barno of the Eichen Kingdom.
 - Atreides Duchy: In order to maintain neutrality they also declined to assign a representative.
-- Principality of Vi: Was interested in assigning a member, but did not have a representative on hand. (Jusa Lok)ommune.Overview|Commune of Atrxous]]: Tried to assign a member, Hynek Linhart, a shoemaker from Plumlov and was overruled following a grievance from Barno of the Eichen Kingdom.
-- Atreides Duchy: In order to maintain neutrality they also declined to assign a representative.
-- Principality of Vi: Was interested in assigning a member, but did not have a representative on hand. (Jusa Lok)id not have a representative on hand. (Jusa Lok)
+- Principality of Vi: Was interested in assigning a member, but did not have a representative on hand. 

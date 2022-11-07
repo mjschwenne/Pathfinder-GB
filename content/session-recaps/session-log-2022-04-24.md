@@ -1,5 +1,6 @@
 ---
 title: Session Log 24 April 2022
+date: "2022-04-24"
 ---
 When we last ventured to the Great Basin...
 
@@ -9,4 +10,4 @@ It was Fireharvest 22nd and the members of the task force were engaged in a oper
 - Redfern, Breagan and Wil all coming very close to death.
 - The capture of Voracious.
 - Oisin flying underwater to see where Vicious swam to as he was retreating, which worked until Vicious hid in a kelp forest and Oisin lost track of him. 
-After the operation, the task force became level 6 and received a total of 37,800 gp, or 5,400 per person. received a total of 37,800 gp, or 5,400 per person.
+After the operation, the task force became level 6 and received a total of 37,800 gp, or 5,400 per person.

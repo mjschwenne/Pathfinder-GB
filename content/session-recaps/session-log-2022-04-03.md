@@ -1,5 +1,6 @@
 ---
 title: Session Log 03 April 2022
+date: "2022-04-03"
 ---
 Went we last ventured to the Great Basin, the date was 6 Fireharvest 1763.
 
