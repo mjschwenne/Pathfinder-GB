@@ -1,7 +1,5 @@
 #+title: Jusa Lok (Stat)
 
-* Jusa Lok
-
 *CR* 7 Lawful Good Medium Humanoid (Human)
 
 *Initiative* +2; *Senses* Perception +3

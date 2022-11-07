@@ -26,8 +26,8 @@ languages:
           series: series
         menu:
             main:
-                - name: Historical Documents
-                  url: historicaldocs/
+                - name: Documents
+                  url: docs/
                   weight: 1
                 - name: Stat Blocks
                   url: stats/
