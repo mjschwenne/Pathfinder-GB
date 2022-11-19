@@ -40,7 +40,7 @@ The Great Basin as it has become is currently divided into ten kingdoms
 with a boundary ring of mountains and large lake in the center,
 Kratermeer.
 
-![](political.jpg)
+![Map of the Great Basin](/staic/political.jpg)
 
 Arendelle
 ---------
