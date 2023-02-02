@@ -1,16 +1,10 @@
-:PROPERTIES:
-:ID:       090439e4-c9b2-4489-bfbc-f96582a5e4e4
-:END:
-#+filetags: :stat:
 #+title: Jusa Lok (Stat)
-
-* Jusa Lok
 
 *CR* 9 Lawful Good Medium Humanoid (Human)
 
 *Initiative* +3; *Senses* Perception +14
 
-** Defense
+* Defense
 
 *AC* 18, touch 12, flat-footed 16 (+6 Armor, +2 Dex, 0 Size)
 
@@ -20,7 +14,7 @@
 
 *Defensive Abilities* [[https://aonprd.com/FeatDisplay.aspx?ItemName=Reactive%20Healing][Reactive Healing]]
 
-** Offense
+* Offense
 
 *Speed* ground 30 ft
 
@@ -34,7 +28,7 @@
 
 /Jusa normally uses the Information Broker spell below./
 
-** Statistics
+* Statistics
 
 *STR* 12 (+1), *DEX* 14 (+2), *CON* 17 (+3), *INT* 10 (0), *WIS* 20 (+5), *CHA* 16 (+3)
 
@@ -54,7 +48,7 @@ Charges Left), 5500 gp
 *SQ* Aura, Channel Energy, Domains ([[https://aonprd.com/DomainDisplay.aspx?ItemName=Law][Archon (Law)]] and [[https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge][Memory]]), Orisons, Spontaneous
 Casting
 
-** Special Abilities
+* Special Abilities
 
 - *Aura*: Jusa has a particularly powerful good and lawful aura which can be
   detect by spells like [[https://aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Good][Detect Good]] or [[https://aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Law][Detect Law]].
@@ -92,7 +86,7 @@ Casting
   (Level 5), [[https://aonprd.com/SpellDisplay.aspx?ItemName=Cure%20Moderate%20Wounds,%20Mass][Cure Moderate Wounds, Mass]] (Level 6), [[https://aonprd.com/SpellDisplay.aspx?ItemName=Cure%20Serious%20Wounds,%20Mass][Cure Serious Wounds, Mass]]
   (Level 7), [[https://aonprd.com/SpellDisplay.aspx?ItemName=Cure%20Critical%20Wounds,%20Mass][Cure Critical Wounds, Mass]] (Level 8)
 
-** Alternative Spell Lists
+* Spell Lists
 
 Clerics can prepare any spell on the [[https://aonprd.com/Spells.aspx?Class=Cleric][Cleric Spell List]], however like Wizards
 they prepare spells on a one-to-one basis with their spell slots. These lists
@@ -102,7 +96,7 @@ but that is a possibility.
 Domain spells are marked with an '*' and exclusively use the '+ 1' spell slot.
 They cannot be used as part of Jusa's Spontaneous Casting ability.
 
-*** Healing
+** Healing
 
 - Orison (DC 15): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Virtue][Virtue]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Purify%20Food%20and%20Drink][Purify Food and Drink]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Mending][Mending]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Stabilize][Stabilize]]
 - 1st Level (6 + 1 / Day, DC 16): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Deathwatch][Deathwatch]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Divine%20Favor][Divine Favor*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Diagnose%20Disease][Diagnose Disease]],
@@ -114,7 +108,7 @@ They cannot be used as part of Jusa's Spontaneous Casting ability.
 - 4th Level (3 + 1 / Day, DC 19): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Deathless][Deathless]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Order%27s%20Wrath][Order's Wrath*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Purify%20Body][Purify Body]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Restoration][Restoration]]
 - 5th Level (2 + 1 / Day, DC 20): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Breath%20of%20Life][Breath of Life]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Cleanse][Cleanse]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Dispel%20Chaos][Dispel Chaos*]]
 
-*** Combat
+** Combat
 
 - Orison (DC 15): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Virtue][Virtue]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Guidance][Guidance]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Bleed][Bleed]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Stabilize][Stabilize]]
 - 1st Level (6 + 1 / Day, DC 16): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Bless][Bless]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Bane][Bane]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Divine%20Favor][Divine Favor*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Entropic%20Shield][Entropic Shield]],
@@ -127,7 +121,7 @@ They cannot be used as part of Jusa's Spontaneous Casting ability.
   [[https://aonprd.com/SpellDisplay.aspx?ItemName=Guardian%20of%20Faith][Guardian of Faith]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Order%27s%20Wrath][Order's Wrath*]]
 - 5th Level (2 + 1 / Day, DC 20): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Burst%20of%20Glory][Burst of Glory]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Dispel%20Chaos][Dispel Chaos*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Flame%20Strike][Flame Strike]]
 
-*** Paranoia
+** Paranoia
 
 - Orison (DC 15): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Magic][Detect Magic]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Poison][Detect Poison]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mending][Mending]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sotto%20Voce][Sotto Voice]]
 - 1st Level (6 + 1 / Day, DC 16): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cloak%20of%20Secrets][Cloak of Secrets]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Command][Command]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Comprehend%20Languages][Comprehend Languages*]],
@@ -141,7 +135,7 @@ They cannot be used as part of Jusa's Spontaneous Casting ability.
 - 5th Level (2 + 1 / Day, DC 20): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Curse%20of%20Magic%20Negation][Curse of Magic Negation]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Respectful%20Quiet][Respectful Quiet]],
   [[https://aonprd.com/SpellDisplay.aspx?ItemName=True%20Seeing][True Seeing*]]
 
-*** Delirium
+** Delirium
 
 - Orison (DC 15): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bleed][Bleed]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Magic][Detect Magic]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Poison][Detect Poison]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spark][Spark]]
 - 1st Level (6 + 1 / Day, DC 16): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Comprehend%20Languages][Comprehend Languages*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Coward%27s%20Cowl][Coward's Cowl]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Doom][Doom]],
@@ -155,7 +149,7 @@ They cannot be used as part of Jusa's Spontaneous Casting ability.
 - 5th Level (2 + 1 / Day, DC 20): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Forbid%20Action,%20Greater][Forbid Action (Greater)]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=True%20Seeing][True Seeing*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Village%20Veil][Village
   Veil]]
 
-*** Information Broker
+** Information Broker
 
 - Orison (DC 15): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Guidance][Guidance]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Light][Light]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Mending][Mending]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Stabilize][Stabilize]]
 - 1st Level (6 + 1 / Day, DC 16): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Authenticating%20Gaze][Authenticating Gaze]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Comprehend%20Languages][Comprehend Languages*]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fallback%20Strategy][Fallback Strategy]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Instant%20Portrait][Instand Portrait]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Know%20the%20Enemy][Know the Enemy]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Read%20Weather][Read Weather]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Rune%20Trace][Rune Trace]]
