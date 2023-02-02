@@ -1,18 +1,24 @@
+:PROPERTIES:
+:ID:       090439e4-c9b2-4489-bfbc-f96582a5e4e4
+:END:
+#+filetags: :stat:
 #+title: Jusa Lok (Stat)
 
-*CR* 7 Lawful Good Medium Humanoid (Human)
+* Jusa Lok
 
-*Initiative* +2; *Senses* Perception +3
+*CR* 9 Lawful Good Medium Humanoid (Human)
+
+*Initiative* +3; *Senses* Perception +14
 
 ** Defense
 
 *AC* 18, touch 12, flat-footed 16 (+6 Armor, +2 Dex, 0 Size)
 
-*hp* 56 (7d8 + 21)
+*hp* 72 (9d8 + 27)
 
-*Fort* +8 *Ref* +4 *Will* +10, +1 against traps
+*Fort* +9 *Ref* +5 *Will* +11, +1 against traps
 
-*Defensive Abilities*
+*Defensive Abilities* [[https://aonprd.com/FeatDisplay.aspx?ItemName=Reactive%20Healing][Reactive Healing]]
 
 ** Offense
 
@@ -20,11 +26,11 @@
 
 *Space* 5 ft, *Reach* 5 ft
 
-*Melee* Morningstar +6 (1d8 + 1 B & P)
+*Melee* Morningstar +7 / +2 (1d8 + 1 B & P)
 
-*Ranged* +1 Blackwood Composite Longbow +7 (110 ft, 1d8 + 2 P, x3)
+*Ranged* +1 Blackwood Composite Longbow +8 / +3 (110 ft, 1d8 + 1 P, x3)
 
-*Spells Prepared* (CL 7; concentration +10)
+*Spells Prepared* (CL 9; concentration +14, +20 to cast defensively)
 
 /Jusa normally uses the Information Broker spell below./
 
@@ -32,18 +38,18 @@
 
 *STR* 12 (+1), *DEX* 14 (+2), *CON* 17 (+3), *INT* 10 (0), *WIS* 20 (+5), *CHA* 16 (+3)
 
-*Base Attack* 5; *CMB* 6; *CMD* 18
+*Base Attack* +6 / +1; *CMB* +7; *CMD* 19
 
-*Skills* diplomacy +10, heal +13, knowledge +10, perception +3, spellcraft +6
+*Skills* diplomacy +12, heal +15, knowledge +12, perception +14, spellcraft +8
 
 *Languages* Common
 
 *Feats* [[https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Casting][Combat Casting]], [[https://aonprd.com/FeatDisplay.aspx?ItemName=Quick%20Channel][Quick Channel]], [[https://aonprd.com/FeatDisplay.aspx?ItemName=Reactive%20Healing][Reactive Healing]], [[https://aonprd.com/FeatDisplay.aspx?ItemName=Selective%20Channeling][Selective Channeling]],
-[[https://www.aonprd.com/FeatDisplay.aspx?ItemName=Point-Blank%20Shot][Point-Blank Shot]]
+[[https://www.aonprd.com/FeatDisplay.aspx?ItemName=Point-Blank%20Shot][Point-Blank Shot]], [[https://aonprd.com/FeatDisplay.aspx?ItemName=Warrior%20Priest][Warrior Priest]]
 
 *Gear* Morningstar, +1 Blackwood Composite Longbow, [[https://aonprd.com/MagicArmorDisplay.aspx?ItemName=Trapwarding][Trapwarding]] Four-Mirror Armor,
-[[https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Cleric%E2%80%99s%20kit][Cleric's Kit]], [[https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Scrivener%27s%20kit][Scrivener's Kit]], Silver Holy Symbol, Wand of [[https://aonprd.com/SpellDisplay.aspx?ItemName=Cure%20Light%20Wounds][Cure Light Wounds]],
-5500 gp
+[[https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Cleric%E2%80%99s%20kit][Cleric's Kit]], [[https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Scrivener%27s%20kit][Scrivener's Kit]], Silver Holy Symbol, Wand of [[https://aonprd.com/SpellDisplay.aspx?ItemName=Cure%20Light%20Wounds][Cure Light Wounds]] (42
+Charges Left), 5500 gp
 
 *SQ* Aura, Channel Energy, Domains ([[https://aonprd.com/DomainDisplay.aspx?ItemName=Law][Archon (Law)]] and [[https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge][Memory]]), Orisons, Spontaneous
 Casting
@@ -52,7 +58,7 @@ Casting
 
 - *Aura*: Jusa has a particularly powerful good and lawful aura which can be
   detect by spells like [[https://aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Good][Detect Good]] or [[https://aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Law][Detect Law]].
-- *Channel Energy*: 6 (3 + Cha Mod) times per day, Jusa can channel 4d6 (1d6 + 1d6
+- *Channel Energy*: 6 (3 + Cha Mod) times per day, Jusa can channel 5d6 (1d6 + 1d6
   per two Cleric levels) points of positive energy to all creatures in a 30 ft
   burst as a standard action (or as a move action by using two charges with
   Quick Channel), choosing to exclude three (Selective Channeling), choosing to
@@ -64,6 +70,11 @@ Casting
     attack rolls, skill checks, ability checks, and saving throws for 1 round as
     if the natural d20 roll resulted in an 11. You can use this ability 8 (3 +
     Wis Mod) times a day.
+  - /Aura of Menace (Su):/ You can emit a 30 foot aura as a standard action.
+    Enemies in this aura take a -2 penalty to AC and on attacks and saves as
+    long as they remain inside the aura. You can use this ability for a number
+    of rounds per day equal to your cleric level (9). These rounds do not need
+    to be consecutive.
   - /Recall (Su)/: With a touch, you can cause a creature to recall some bit of
     forgotten lore or information. The creature can retry any Knowledge skill
     check it has made within the past minute, gaining a insight bonus on the
@@ -71,7 +82,7 @@ Casting
     Mod) times a day.
   - /Remote Viewing (Sp):/ You can use [[https://aonprd.com/SpellDisplay.aspx?ItemName=Clairaudience/Clairvoyance][Clairaudience/Clairvoyance]] at will as a
     spell-like ability using your cleric level as the caster level. You can use
-    this ability for a number of rounds per day equal to your cleric level.
+    this ability for a number of rounds per day equal to your cleric level (9).
     These rounds do not need to be consecutive.
 
 - *Spontaneous Casting*: Jusa can expend a non-domain spell of any level to cast
@@ -83,57 +94,82 @@ Casting
 
 ** Alternative Spell Lists
 
+Clerics can prepare any spell on the [[https://aonprd.com/Spells.aspx?Class=Cleric][Cleric Spell List]], however like Wizards
+they prepare spells on a one-to-one basis with their spell slots. These lists
+will assume that Jusa has decided to not prepare a single spell multiple times,
+but that is a possibility.
+
+Domain spells are marked with an '*' and exclusively use the '+ 1' spell slot.
+They cannot be used as part of Jusa's Spontaneous Casting ability.
+
 *** Healing
 
-- Orison (DC 13): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Virtue][Virtue]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Purify%20Food%20and%20Drink][Purify Food and Drink]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Mending][Mending]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Stabilize][Stabilize]]
-- 1st Level (5 + 1 / Day, DC 14): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Bless][Bless]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Comprehend%20Languages][Comprehend Languages*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Deathwatch][Deathwatch]],
-  [[https://aonprd.com/SpellDisplay.aspx?ItemName=Divine%20Favor][Divine Favor*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Diagnose%20Disease][Diagnose Disease]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Sanctuary][Sanctuary]]
-- 2nd Level (4 + 1 / Day, DC 15): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Align%20Weapon][Align Weapon* (Law Only)]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Healing%20Token][Healing Token]],
-  [[https://aonprd.com/SpellDisplay.aspx?ItemName=Status][Status]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Memory%20Lapse][Memory Lapse*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Restoration,%20Lesser][Lesser Restoration]]
-- 3rd Level (3 + 1 / Day, DC 16): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Remove%20Curse][Remove Curse]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Remove%20Disease][Remove Disease]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Prayer][Prayer*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Speak%20with%20Dead][Speak
-  with Dead*]]
-- 4th Level (2 + 1 / Day, DC 17): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Divination][Divination*]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Order%27s%20Wrath][Order's Wrath*]],  [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Restoration][Restoration]]
+- Orison (DC 15): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Virtue][Virtue]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Purify%20Food%20and%20Drink][Purify Food and Drink]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Mending][Mending]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Stabilize][Stabilize]]
+- 1st Level (6 + 1 / Day, DC 16): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Deathwatch][Deathwatch]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Divine%20Favor][Divine Favor*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Diagnose%20Disease][Diagnose Disease]],
+  [[https://aonprd.com/SpellDisplay.aspx?ItemName=Endure%20Elements][Endure Elements]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Instant%20Clot][Instant Clot]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Sanctuary][Sanctuary]]
+- 2nd Level (5 + 1 / Day, DC 17): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Align%20Weapon][Align Weapon* (Law Only)]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Gentle%20Repose][Gentle Repose]],
+  [[https://aonprd.com/SpellDisplay.aspx?ItemName=Healing%20Token][Healing Token]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Status][Status]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Restoration,%20Lesser][Lesser Restoration]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Life%20Pact][Life Pact]]
+- 3rd Level (4 + 1 / Day, DC 18): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Protection%20from%20Energy][Protection from Energy]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Remove%20Blindness/Deafness][Remove
+  Blindness/Deafness]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Remove%20Curse][Remove Curse]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Remove%20Disease][Remove Disease]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Prayer][Prayer*]]
+- 4th Level (3 + 1 / Day, DC 19): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Deathless][Deathless]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Order%27s%20Wrath][Order's Wrath*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Purify%20Body][Purify Body]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Restoration][Restoration]]
+- 5th Level (2 + 1 / Day, DC 20): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Breath%20of%20Life][Breath of Life]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Cleanse][Cleanse]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Dispel%20Chaos][Dispel Chaos*]]
 
 *** Combat
 
-- Orison (DC 13): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Virtue][Virtue]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Guidance][Guidance]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Bleed][Bleed]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Stabilize][Stabilize]]
-- 1st Level (5 + 1 / Day, DC 14): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Bless][Bless]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Comprehend%20Languages][Comprehend Languages*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Bane][Bane]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Divine%20Favor][Divine
-  Favor*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Hedging%20Weapons][Hedging Weapons]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Weapons%20Against%20Evil][Weapons Against Evil]]
-- 2nd Level (4 + 1 / Day, DC 15): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Align%20Weapon][Align Weapon* (Law Only)]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Grace][Grace]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Ironskin][Ironskin]],
-  [[https://aonprd.com/SpellDisplay.aspx?ItemName=Memory%20Lapse][Memory Lapse*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Spiritual%20Weapon][Spiritual Weapon]]
-- 3rd Level (3 + 1 / Day, DC 16): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Archon%27s%20Aura][Archon's Aura]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Contagious%20Zeal][Contagious Zeal]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Prayer][Prayer*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Speak%20with%20Dead][Speak
-  with Dead*]]
-- 4th Level (2 + 1 / Day, DC 17): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Debilitating%20Portent][Debilitating Portent]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Divination][Divination*]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Order%27s%20Wrath][Order's
-  Wrath*]]
+- Orison (DC 15): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Virtue][Virtue]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Guidance][Guidance]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Bleed][Bleed]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Stabilize][Stabilize]]
+- 1st Level (6 + 1 / Day, DC 16): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Bless][Bless]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Bane][Bane]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Divine%20Favor][Divine Favor*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Entropic%20Shield][Entropic Shield]],
+  [[https://aonprd.com/SpellDisplay.aspx?ItemName=Hedging%20Weapons][Hedging Weapons]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Protection%20from%20Evil][Protection from Evil]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Weapons%20Against%20Evil][Weapons Against Evil]]
+- 2nd Level (5 + 1 / Day, DC 17): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Align%20Weapon][Align Weapon* (Law Only)]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Grace][Grace]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Ironskin][Ironskin]],
+  [[https://aonprd.com/SpellDisplay.aspx?ItemName=Inner%20Focus][Inner Focus]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Shield%20of%20Fortification][Shield of Fortification]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Spiritual%20Weapon][Spiritual Weapon]]
+- 3rd Level (4 + 1 / Day, DC 18): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Archon%27s%20Aura][Archon's Aura]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Contagious%20Zeal][Contagious Zeal]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Damnation][Damnation]],
+  [[https://aonprd.com/SpellDisplay.aspx?ItemName=Planned%20Assault][Planned Assult]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Prayer][Prayer*]]
+- 4th Level (3 + 1 / Day, DC 19): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Blessing%20of%20Fervor][Blessing of Fervor]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Debilitating%20Portent][Debilitating Portent]],
+  [[https://aonprd.com/SpellDisplay.aspx?ItemName=Guardian%20of%20Faith][Guardian of Faith]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Order%27s%20Wrath][Order's Wrath*]]
+- 5th Level (2 + 1 / Day, DC 20): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Burst%20of%20Glory][Burst of Glory]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Dispel%20Chaos][Dispel Chaos*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Flame%20Strike][Flame Strike]]
 
 *** Paranoia
 
-- Orison (DC 13): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Magic][Detect Magic]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Poison][Detect Poison]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mending][Mending]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sotto%20Voce][Sotto Voice]]
-- 1st Level (5 + 1 / Day, DC 14): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cloak%20of%20Secrets][Cloak of Secrets]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Comprehend%20Languages][Comprehend Languages*]],
-  [[https://aonprd.com/SpellDisplay.aspx?ItemName=Divine%20Favor][Divine Favor*]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Obscuring%20Mist][Obscuring Mist]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Speechreader%27s%20Sight][Speechreader's Sight]]
-- 2nd Level (4 + 1 / Day, DC 15): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Align%20Weapon][Align Weapon* (Law Only)]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Magic,%20Greater][Detect Magic,
-  Greater]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Find%20Traps][Find Traps]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Memory%20Lapse][Memory Lapse*]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Secret%20Speech][Secret Speech]]
-- 3rd Level (3 + 1 / Day, DC 16): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blot][Blot]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Invisibility%20Purge][Invisibility Purge]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Prayer][Prayer*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Speak%20with%20Dead][Speak with
-  Dead*]]
-- 4th Level (2 + 1 / Day, DC 17): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Divination][Divination*]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Glimpse%20of%20Truth][Glimpse of Truth]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Order%27s%20Wrath][Order's Wrath*]]
+- Orison (DC 15): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Magic][Detect Magic]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Poison][Detect Poison]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mending][Mending]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sotto%20Voce][Sotto Voice]]
+- 1st Level (6 + 1 / Day, DC 16): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cloak%20of%20Secrets][Cloak of Secrets]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Command][Command]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Comprehend%20Languages][Comprehend Languages*]],
+  [[https://aonprd.com/SpellDisplay.aspx?ItemName=Keyhole][Keyhole]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Obscuring%20Mist][Obscuring Mist]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Speechreader%27s%20Sight][Speechreader's Sight]]
+- 2nd Level (5 + 1 / Day, DC 17): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Conditional%20Favor][Conditional Favor]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Magic,%20Greater][Detect Magic (Greater)]],
+  [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Find%20Traps][Find Traps]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Memory%20Lapse][Memory Lapse*]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Secret%20Speech][Secret Speech]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Undetectable%20Alignment][Undetectable Alignment]]
+- 3rd Level (4 + 1 / Day, DC 18): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Catatonia][Catatonia]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blot][Blot]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Invisibility%20Purge][Invisibility Purge]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=See%20Beyond][See
+  Beyond]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Speak%20with%20Dead][Speak with Dead*]]
+- 4th Level (3 + 1 / Day, DC 19): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Devil%20Snare][Devil Snare]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Divination][Divination*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Enchantment%20Foil][Enchantment Foil]],
+  [[https://aonprd.com/SpellDisplay.aspx?ItemName=Shield%20Speech,%20Greater][Shield Speech (Greater)]]
+- 5th Level (2 + 1 / Day, DC 20): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Curse%20of%20Magic%20Negation][Curse of Magic Negation]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Respectful%20Quiet][Respectful Quiet]],
+  [[https://aonprd.com/SpellDisplay.aspx?ItemName=True%20Seeing][True Seeing*]]
 
 *** Delirium
 
-- Orison (DC 13): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bleed][Bleed]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Magic][Detect Magic]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Poison][Detect Poison]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spark][Spark]]
-- 1st Level (5 + 1 / Day, DC 14): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Comprehend%20Languages][Comprehend Languages*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Divine%20Favor][Divine Favor*]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ears%20of%20the%20City][Ears
-  of the City]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Forbid%20Action][Forbid Action]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Murderous%20Command][Murderous Command]]
-- 2nd Level (4 + 1 / Day, DC 15): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Align%20Weapon][Align Weapon* (Law Only)]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Compel%20Tongue][Compel Tongue]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dark%20Whispers][Dark
-  Whispers]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Enthrall][Enthrall]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Memory%20Lapse][Memory Lapse*]],
-- 3rd Level (3 + 1 / Day, DC 16): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Anxieties][Detect Anxieties]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Desires][Detect Desires]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Prayer][Prayer*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Speak%20with%20Dead][Speak with Dead*]]
-- 4th Level (2 + 1 / Day, DC 17): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Divination][Divination*]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hallucinogenic%20Smoke][Hullucinogenic Smoke]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Order%27s%20Wrath][Order's Wrath*]]
+- Orison (DC 15): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bleed][Bleed]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Magic][Detect Magic]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Poison][Detect Poison]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spark][Spark]]
+- 1st Level (6 + 1 / Day, DC 16): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Comprehend%20Languages][Comprehend Languages*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Coward%27s%20Cowl][Coward's Cowl]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Doom][Doom]],
+  [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ears%20of%20the%20City][Ears of the City]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Forbid%20Action][Forbid Action]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Haze%20of%20Dreams][Haze of Dreams]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Murderous%20Command][Murderous Command]]
+- 2nd Level (5 + 1 / Day, DC 17): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Compel%20Tongue][Compel Tongue]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dark%20Whispers][Dark Whispers]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Enthrall][Enthrall]],
+  [[https://aonprd.com/SpellDisplay.aspx?ItemName=Invigorating%20Poison][Invigorating Poison]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Memory%20Lapse][Memory Lapse*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Mortal%20Terror][Mortal Terror]]
+- 3rd Level (4 + 1 / Day, DC 18): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Anxieties][Detect Anxieties]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Desires][Detect Desires]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Enter%20Image][Enter Image]],
+  [[https://aonprd.com/SpellDisplay.aspx?ItemName=False%20Alibi][False Alibi]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Speak%20with%20Dead][Speak with Dead*]]
+- 4th Level (3 + 1 / Day, DC 19): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Divination][Divination*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=False%20Future][False Future]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hallucinogenic%20Smoke][Hullucinogenic
+  Smoke]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Terrible%20Remorse][Terrible Remorse]]
+- 5th Level (2 + 1 / Day, DC 20): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Forbid%20Action,%20Greater][Forbid Action (Greater)]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=True%20Seeing][True Seeing*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Village%20Veil][Village
+  Veil]]
 
 *** Information Broker
 
-- Orison (DC 13): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Guidance][Guidance]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Light][Light]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Mending][Mending]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Stabilize][Stabilize]]
-- 1st Level (5 + 1 / Day, DC 14): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Comprehend%20Languages][Comprehend Languages*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Divine%20Favor][Divine Favor*]],
-  [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Egorian%20Diplomacy][Egorian Diplomacy]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fallback%20Strategy][Fallback Strategy]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Know%20the%20Enemy][Know the Enemy]]
-- 2nd Level (4 + 1 / Day, DC 15): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Align%20Weapon][Align Weapon* (Law Only)]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Augury][Augury]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Lay%20of%20the%20Land][Lay of the
-  Land]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Memory%20Lapse][Memory Lapse*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Page-Bound%20Epiphany][Page-Bound Epiphany]]
-- 3rd Level (3 + 1 / Day, DC 16): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Locate%20Object][Locate Object]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Obscure%20Object][Obscure Object]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Prayer][Prayer*]],
-  [[https://aonprd.com/SpellDisplay.aspx?ItemName=Speak%20with%20Dead][Speak with Dead*]]
-- 4th Level (2 + 1 / Day, DC 17): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Discern%20Lies][Discern Lies]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Divination][Divination*]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Order%27s%20Wrath][Order's Wrath*]]
+- Orison (DC 15): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Guidance][Guidance]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Light][Light]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Mending][Mending]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Stabilize][Stabilize]]
+- 1st Level (6 + 1 / Day, DC 16): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Authenticating%20Gaze][Authenticating Gaze]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Comprehend%20Languages][Comprehend Languages*]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fallback%20Strategy][Fallback Strategy]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Instant%20Portrait][Instand Portrait]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Know%20the%20Enemy][Know the Enemy]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Read%20Weather][Read Weather]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Rune%20Trace][Rune Trace]]
+- 2nd Level (5 + 1 / Day, DC 17): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Augury][Augury]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Build%20Trust][Build Trust]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Lay%20of%20the%20Land][Lay of the Land]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Memory%20Lapse][Memory
+  Lapse*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Page-Bound%20Epiphany][Page-Bound Epiphany]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Reveal%20True%20Shape][Reveal True Shape]]
+- 3rd Level (4 + 1 / Day, DC 18): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Biography][Blood Biography]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Locate%20Object][Locate Object]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Obscure%20Object][Obscure
+  Object]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Revelation][Revelation]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Speak%20with%20Dead][Speak with Dead*]]
+- 4th Level (3 + 1 / Day, DC 19): [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Discern%20Lies][Discern Lies]], [[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Divination][Divination*]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Probe%20History][Probe History]],
+  [[https://aonprd.com/SpellDisplay.aspx?ItemName=Red%20Hand%20of%20the%20Killer][Red Hand of the Killer]]
+- 5th Level (2 + 1 / Day, DC 20): [[https://aonprd.com/SpellDisplay.aspx?ItemName=Commune][Commune]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=Dungeonsight][Dungeonsight]], [[https://aonprd.com/SpellDisplay.aspx?ItemName=True%20Seeing][True Seeing*]]
+
+* Equipment Wish-list
+
+1. [[https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Celestial+Armor][Celestial Armor]] (22,400 gp)
+2. [[https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Headband%20of%20Inspired%20Wisdom2][Headband of Inspired Wisdom]] (4,000 / 16,000 / 36,000 gp)
+3. [[https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Belt%20of%20Incredible%20Dexterity2][Belt of Incredible Dexterity]] (4,000 / 16,000 / 36,000 gp) or [[https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Belt%20of%20Physical%20Might2][Belt of Physical
+   Might]] Strength and Dexterity (10,000 / 40,000 / 90,000 gp)
