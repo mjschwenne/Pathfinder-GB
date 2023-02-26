@@ -6,7 +6,7 @@
 When we last ventured to the Great Basin...
 
 The Task Force and there allies had just defeated a figure in adamantine armor
-who was leading a raiding party through the [[id:5418d679-fba4-4ebe-836c-974bf559f871][Calchiroos Tribe]] of the [[id:042a1317-0fc6-4a37-98b5-5c3637ca81e6][Roksduens]].
+who was leading a raiding party through the Calchiroos Tribe of the Roksduens.
 After downing his, Wil, Breagan and Jusa stripped his sword, shield and armor
 while binding him.
 
@@ -17,9 +17,9 @@ talk until the full Task Force was assembled the next morning.
 Once bound upright to a chair, you learned that he is capable of speaking a
 language which is similar enough to Common to communicate, despite the thick
 accent and archaic vocabulary. During a combative conversation, you learned that
-there is another power outside the Basin, the [[id:4c1e02c6-bfb4-4e51-9b21-39cafe1d1bf8][Caerwent Empire]], which occupied
-this land before [[id:ee80558d-5b62-43a2-9ff3-b715b4127684][The Shattering]]. Using some divination magic, namely [[https://aonprd.com/SpellDisplay.aspx?ItemName=Open%20Book][Open Book]]
-and [[https://aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Thoughts][Detect Thoughts]], [[id:f2bf39cf-6593-4bf4-b136-d9064827c4ca][Oisin]] learned that the [[id:4c1e02c6-bfb4-4e51-9b21-39cafe1d1bf8][Caerwent Empire]] has at least one
+there is another power outside the Basin, the Caerwent Empire, which occupied
+this land before The Shattering. Using some divination magic, namely [[https://aonprd.com/SpellDisplay.aspx?ItemName=Open%20Book][Open Book]]
+and [[https://aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Thoughts][Detect Thoughts]], Oisin learned that the Caerwent Empire has at least one
 city of immense proportions with more people and magical power than anything in
 the Basin. This solider of the Empire is a fervent believer in the power of his
 nation and that eventually the armies of the Empire will roll over the Basin and
@@ -31,10 +31,10 @@ he had failed to beat all of the forces that he had encounter in the Basin.
 
 Redfern saved the Empire the trouble by executing the solider in two blows. You
 decided to split the party, with Oisin, Breagan, Wil and Meru teleporting back
-to the teleportation circle near [[id:3c686abf-5cc0-401f-8e0c-0165e85ca461][Tomo]] while the rest of the group trekked back
+to the teleportation circle near Tomo while the rest of the group trekked back
 by foot. However, the trek itself was not a gentle scroll through the dessert.
 On the second day during a break, a Purple Worm attacked. It erupted from the
-sands and quickly grabbed [[id:e7f1f096-90a3-454a-ad22-0d1f7d7c9720][Gwen]] and swallowed her. While struggling with the
+sands and quickly grabbed Gwen and swallowed her. While struggling with the
 powerful constriction and acid of the stomach, she managed to cast [[https://aonprd.com/SpellDisplay.aspx?ItemName=Pup%20Shape][Pup Shape]] and
 transform the worm into a small, baby worm which caused her to be spat out.
 
@@ -42,4 +42,4 @@ The baby worm was still powerful, but with a heavily reduced number of hit
 points it was slain without issue. Gwen then harvested two doses of [[https://aonprd.com/PoisonDisplay.aspx?ItemName=Purple%20Worm%20Poison][Purple Worm
 Poison]] from the corpse.
 
-We now resume with the Task Force regrouping in [[id:3f50c169-dca1-4d32-836a-3ec75cca3e95][Kerkrad]] on the 19th of Shimmerfall.
+We now resume with the Task Force regrouping in Kerkrad on the 19th of Shimmerfall.
