@@ -9,7 +9,18 @@
       <link>https://mjschwenne.github.io/Pathfinder-GB/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mjschwenne.github.io/Pathfinder-GB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mjschwenne.github.io/Pathfinder-GB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Great Basin Session (2023-02-26)</title>
+      <link>https://mjschwenne.github.io/Pathfinder-GB/session-recaps/2023-02-26-session-log/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mjschwenne.github.io/Pathfinder-GB/session-recaps/2023-02-26-session-log/</guid>
+      <description>Session Recap Editor&amp;#39;s Note: This session was short and full of diversions, mainly do to the DM recovering from surgery and not having time to prepare material, although several other players had minor aliments as well.
+When we last ventured to the Great Basin…
+The Task Force had just returned to Kerkard from the Roksduens there they had defeated a solider of the Caerwent Empire and reclaimed some valuable adamantine arms and armor.</description>
+    </item>
+    
     <item>
       <title>Great Basin Session (2023-02-19)</title>
       <link>https://mjschwenne.github.io/Pathfinder-GB/session-recaps/great-basin-2023-02-19/</link>
@@ -17,7 +28,7 @@
       
       <guid>https://mjschwenne.github.io/Pathfinder-GB/session-recaps/great-basin-2023-02-19/</guid>
       <description>Session Recapitulation When we last ventured to the Great Basin…
-The Task Force and there allies had just defeated a figure in adamantine armor who was leading a raiding party through the Calchiroos Tribe of the Roksduens. After downing his, Wil, Breagan and Jusa stripped his sword, shield and armor while binding him.
+The Task Force and their allies had just defeated a figure in adamantine armor who was leading a raiding party through the Calchiroos Tribe of the Roksduens. After downing him, Wil, Breagan and Jusa stripped his sword, shield and armor while binding him.
 As you rested in shifts, one guard was posted to watch both the prisoner and the vast dessert around you.</description>
     </item>
     
@@ -255,6 +266,23 @@ The members of the soon to be established task force were scattered about the ci
     </item>
     
     <item>
+      <title></title>
+      <link>https://mjschwenne.github.io/Pathfinder-GB/stats/jusa.lok-stat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mjschwenne.github.io/Pathfinder-GB/stats/jusa.lok-stat/</guid>
+      <description>Jusa Lok (Stat)
+Jusa Lok CR 9 Lawful Good Medium Humanoid (Human)
+Initiative +3; Senses Perception +16
+Defense AC 18, touch 12, flat-footed 16 (+6 Armor, +2 Dex, 0 Size)
+hp 81 (9d8 + 36)
+Fort +10 Ref +5 Will +13, +1 against traps
+Defensive Abilities Reactive Healing
+Offense Speed ground 30 ft
+Space 5 ft, Reach 5 ft Melee Morningstar +7 / +2 (1d8 + 1 B &amp;amp; P)</description>
+    </item>
+    
+    <item>
       <title>Forum Delegates of the Koncord of Kieros</title>
       <link>https://mjschwenne.github.io/Pathfinder-GB/docs/delegates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -280,24 +308,6 @@ This region is called the Great Basin, and everything from the name to the polit
       
       <guid>https://mjschwenne.github.io/Pathfinder-GB/docs/introductory.questions/</guid>
       <description>Koncord of Kieros All of the governments are members of Koncord of Kieros. The Koncord serves as a formal discussion forum and supervisory body for all of the local governments. The Koncord was founded by Kieros to protect the entire region from some threat. Good contenders are a war between all of the kingdoms or a massive natural disaster like a meteor impact or a plague, something were the governments needed to set aside their differences and work together.</description>
-    </item>
-    
-    <item>
-      <title>Jusa Lok (Stat)</title>
-      <link>https://mjschwenne.github.io/Pathfinder-GB/stats/jusa.lok-stat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mjschwenne.github.io/Pathfinder-GB/stats/jusa.lok-stat/</guid>
-      <description>CR 9 Lawful Good Medium Humanoid (Human)
-Initiative +3; Senses Perception +14
-Defense AC 18, touch 12, flat-footed 16 (+6 Armor, +2 Dex, 0 Size)
-hp 72 (9d8 + 27)
-Fort +9 Ref +5 Will +11, +1 against traps
-Defensive Abilities Reactive Healing
-Offense Speed ground 30 ft
-Space 5 ft, Reach 5 ft
-Melee Morningstar +7 / +2 (1d8 + 1 B &amp;amp; P)
-Ranged +1 Blackwood Composite Longbow +8 / +3 (110 ft, 1d8 + 1 P, x3)</description>
     </item>
     
     <item>
