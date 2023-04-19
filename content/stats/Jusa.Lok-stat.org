@@ -1,7 +1,3 @@
-:PROPERTIES:
-:ID:       090439e4-c9b2-4489-bfbc-f96582a5e4e4
-:END:
-#+filetags: :stat:
 #+title: Jusa Lok (Stat)
 
 * Jusa Lok
